@@ -1,0 +1,5 @@
+Random Stuff !!!!!
+
+If u see an sql injection possible but no display then it may be a boolean based sql injection , don't miss it out
+
+WAF bypass : /*!50000union*/ /*!50000all*/ /*!50000select*/ group_concat(table_name)
