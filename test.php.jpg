@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> Happu </title>
+</head>
+<body>
+<h1> Your Flag </h1>
+<?php echo file_get_contents('../../flag.php'); ?>
+</body>
+</html>
