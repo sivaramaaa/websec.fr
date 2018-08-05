@@ -36,4 +36,4 @@ the tricky part here is use of AS coz only username field is used !!!!!!
 
 and set the base-64 content of serialized object as our cookie and the rest is taken care by __destruct() 
 
-####  WEBSEC{9abd8e8247cbe62641ff662e8fbb662769c08500}
+[Redacted]
