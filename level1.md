@@ -21,4 +21,4 @@ our quey looks like this   ``` $query = 'SELECT id,username FROM users WHERE id=
  
  and we get the flag 
  
- #### WEBSEC{Simple_SQLite_Injection} 
+[Redacted]
